@@ -1,6 +1,6 @@
 # Minting
 
-### Address: will be posted in the Boss DAO discord #announcements channel
+### Address: is posted in the Boss DAO discord #bossdao-mint-addr channel
 
 ### The Mint
 
