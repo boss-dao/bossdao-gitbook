@@ -13,11 +13,11 @@ This quarter is when the project begins. Ideas are generated, art is comissioned
 * [x] Twitter Launch (Feb 2022)
 * [x] Info Page Launch (Feb 2022)
 * [x] Develop Proposal System and Receieve Community Proposals (March 2022)
-* [ ] Boss DAO NFT Mint (March 16th, 2022)
-* [ ] First Community Votes
-* [ ] Boss Escrow development begins
+* [x] Boss DAO NFT Mint (March 16th, 2022)
+* [x] Boss Escrow development begins
 * [x] Boss Stake Pool development begins
-* [ ] Boss Swap development begins
+* [x] Boss Swap development begins
+* [ ] First Community Votes
 
 ### Q2 2022
 

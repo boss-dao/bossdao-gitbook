@@ -1,6 +1,8 @@
 # Minting
 
-### Address: is posted in the Boss DAO discord #bossdao-mint-addr channel
+### Status
+
+Minting was closed March 21st, and a total of 3598 Boss DAO NFTs were minted. Minting will reopen at a later date, sometime in April.
 
 ### The Mint
 
@@ -20,7 +22,7 @@ Records of every minted NFT will be published on our GitHub.
 
 Records of every refund sent will be published on our GitHub.
 
-[https://github.com/boss-dao](https://github.com/boss-dao)
+{% embed url="https://github.com/boss-dao/mint-records" %}
 
 
 

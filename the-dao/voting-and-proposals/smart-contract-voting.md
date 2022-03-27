@@ -1,3 +1,3 @@
 # 🧠 Smart Contract Voting
 
-Currently in development. Check back soon!
+Smart Contract voting will be implemented in conjunction with the Boss DAO website to facilitate a convenient voting process.

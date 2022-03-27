@@ -1,3 +1,3 @@
 # 🗣 Discord
 
-{% embed url="https://discord.gg/4yBubdhCbA" %}
+{% embed url="https://discord.gg/bossdao" %}
