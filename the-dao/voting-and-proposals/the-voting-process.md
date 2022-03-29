@@ -17,3 +17,29 @@ The steps for voting are as follows:
 3. The voting software counts each DAO members vote based on the amount of Boss DAO NFTs the voter holds at the time of the vote
 4. The time period for voting ends and ADA sent for votes is refunded to the senders
 5. The results of the vote are published and action is taken according to the outcome
+
+### FAQ
+
+**How long will votes last?**
+
+Most votes will last 24 hours.
+
+**Do I need to send a transaction for each NFT I own?**
+
+No, one transaction of 3 ADA counts for all of your votes. If your NFTs are separated across multiple wallets, you will need to submit transactions from each wallet or move all your NFTs to one wallet before voting.
+
+**Do I need to send my Boss DAO NFT in the transaction to vote?**
+
+No, do not do this.
+
+**Can I take back my vote?**
+
+No, all votes are final. Please confirm you are sending to the correct wallet and for the correct proposal before voting.
+
+**How many votes are needed for majority?**
+
+Greater than 50% of received votes constitutes a majority, calculated on a per-proposal basis.
+
+\
+
+
