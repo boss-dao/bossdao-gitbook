@@ -14,7 +14,7 @@ All votes will be held on-chain, making the results of each vote transparent and
 * Adding more Boss DAO Membership NFTs to circulation
 * Burning NFTs in the DAO Treasury
 * ADA handouts from treasury funds
-* Conversion of ADA to non-cryptocurrency assets (USD, EUR, etc)
+* Investment / Conversion into non-Cardano assets
 * Boss DAO Development Team's status within the DAO
 * Additional Boss DAO related NFT mints - This is something that would need to be agreed on by both the DAO and the development team, since it would require time, effort and financial contribution from the team. Development on additional projects would only begin once both groups agree. Once this happens, the community can vote on the style, direction and purpose of the project.
 
