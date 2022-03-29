@@ -21,7 +21,7 @@ This quarter is when the project begins. Ideas are generated, art is comissioned
 
 ### Q2 2022
 
-Project development continues as progress is made toward the completion of the smart-contract based voting system. DAO Governance continues as the Boss DAO treasury acquires more assets. Development of Boss DAO Fungible token continues with a possible Q2 release. Additional Boss DAO functionality is envisioned by the team and discussed with the community. Boss DAO Metaverse-compatible assets are developed. Partnerships are forged with prominent CNFT projects as the Boss Dao continuously prospers.
+DAO Governance continues as the Boss DAO treasury acquires more assets. Development of Boss DAO Fungible token continues with a possible Q2 release. Additional Boss DAO functionality is envisioned by the team and discussed with the community. Boss DAO Metaverse-compatible assets are developed. Partnerships are forged with prominent CNFT projects as the Boss Dao continuously prospers.
 
 * [ ] Boss DAO Website Launch
 * [ ] Boss Launchpad development begins
@@ -32,7 +32,7 @@ Project development continues as progress is made toward the completion of the s
 
 ### Q3 2022
 
-Development continues as more and more aspects of DAO governance are converted to smart contracts. The first Quarterly vote is held on which DAO Treasury assets should be bought, sold, or held. Profits are distributed to DAO members. The Boss DAO establishes its metaverse HQ within Boss Planet District 5. Additional Boss Planet developments are envisioned by the team and discussed with the community.
+Significant Boss DAO initiatives are launched. The Boss DAO establishes its metaverse HQ within Boss Planet District 5. Additional Boss Planet developments are envisioned by the team and discussed with the community.
 
 * [ ] Boss Swap Launch
 * [ ] Boss Escrow Launch
