@@ -18,4 +18,4 @@ Sdub currently works as a software engineer. He's loved video games since he was
 
 Xyzzy is a project co-founder and community manager. He is one of the primary minds behind DAO feature development.
 
-A passionate innovator, Xyzzy is an early adopter of blockchain technology and has had ambitions of starting his own projects for several years. In addition to this project, he also works on The Remnants, a P2E project in the early stages of development. Check it out at info.remnants.ai
+A passionate innovator, Xyzzy is an early adopter of blockchain technology and has had ambitions of starting his own projects for several years.
